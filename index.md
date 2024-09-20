@@ -7,3 +7,8 @@ Learn how to add Head with Markdown
 ```r
 library (ggplot)
 ```
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
+- [x] Learn Markdown
